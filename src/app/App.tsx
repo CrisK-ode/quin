@@ -314,7 +314,7 @@ export default function App() {
                 Te invito a
               </span>
               <span className="block shimmer font-bold not-italic text-6xl sm:text-8xl md:text-9xl">
-                mis 67
+                mis XV
               </span>
               <span className="block text-rose-700 italic font-light text-4xl sm:text-5xl md:text-6xl">
                 años
